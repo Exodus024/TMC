@@ -1,0 +1,2 @@
+#include "ViewEquipment.h"
+
