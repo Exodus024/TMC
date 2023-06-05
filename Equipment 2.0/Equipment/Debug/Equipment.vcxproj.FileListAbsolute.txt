@@ -1,0 +1,7 @@
+E:\Visual Studio 2019\Projects\C++\(400)Equipment\Equipment\Equipment\Debug\Equipment.vcxproj.AssemblyReference.cache
+E:\Visual Studio 2019\Projects\C++\(400)Equipment\Equipment\Equipment\Debug\Equipment.MyForm.resources
+E:\Visual Studio 2019\Projects\C++\(400)Equipment\Equipment\Equipment\Debug\Equipment.vcxproj.GenerateResource.cache
+C:\Users\Vitaly\Desktop\(400)Equipment\Equipment\Equipment\Debug\Equipment.vcxproj.AssemblyReference.cache
+C:\Users\Vitaly\Desktop\(400)Equipment\Equipment\Equipment\Debug\Equipment.vcxproj.SuggestedBindingRedirects.cache
+C:\Users\Vitaly\Desktop\(400)Equipment\Equipment\Equipment\Debug\Equipment.MyForm.resources
+C:\Users\Vitaly\Desktop\(400)Equipment\Equipment\Equipment\Debug\Equipment.vcxproj.GenerateResource.cache
